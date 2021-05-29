@@ -25,7 +25,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/terdoo-mzer/Huddle-landing-page-with-single-introductory-section/blob/main/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://terdoo-mzer.github.io/Huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
@@ -46,4 +46,4 @@ I plan to focus on developing my strengths in the use of CSS grid. I see there i
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Terdoo-tech)
+- Frontend Mentor - [@MyFrontendmentorurl](https://www.frontendmentor.io/profile/Terdoo-tech)
