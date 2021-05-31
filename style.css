@@ -79,6 +79,12 @@ button:hover {
     justify-content: flex-end;
 }
 
+/* width: 30px;
+height: 30px;
+display: flex;
+justify-content: center;
+align-items: center; */
+
 .social-icons li {
     list-style: none;
     padding: 10px;
@@ -93,7 +99,7 @@ button:hover {
     font-size: 15px;
     border: 1px solid #fff;
     border-radius: 50%;
-    padding: 8px;
+/*     padding: 8px; */
 }
 
 .social-icons i:hover {
