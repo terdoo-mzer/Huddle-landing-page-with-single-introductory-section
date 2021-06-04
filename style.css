@@ -64,6 +64,7 @@ h1 {
 button {
     color: hsl(257, 40%, 49%);
     padding: 15px 50px;
+    outline: none;
     border: none;
     border-radius: 25px;
     box-shadow: 5px 5px 5px hsl(257, 100%, 68%);
